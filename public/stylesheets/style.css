@@ -1,0 +1,50 @@
+/* backgroud style */
+.wrap {
+  height: 100vh;
+ background-color: #fefbd8;
+ background: url("https://img.freepik.com/free-photo/young-woman-yellow-leather-jacket-copy-space_23-2148674153.jpg?w=2000");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: right;
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+/*   login page style*/
+.login-wrap {
+  display: flex;
+
+}
+
+
+.log-detail {
+  position: relative;
+  border-radius: 20px;
+  height: 85vh;
+  background-color: white;
+}
+
+.loginform {
+  background-color: white;
+  margin-left: 130px;
+  margin-top: 70px;
+  width: fit-content;
+  opacity: .9;
+}
+.row {
+  padding: 10px;
+}
+
+.row .btn {
+  margin-left: 28%;
+
+  
+}
+
+
+.card-title {
+  text-align: center;
+}
